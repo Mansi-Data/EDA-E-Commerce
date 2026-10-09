@@ -72,7 +72,6 @@ exploratory-data-analysis-ecommerce-sales/
 └── presentation/
     └── project_presentation.pdf
 
-    Adjust the folder and filenames to match the files you actually upload. Do not commit private, restricted, or otherwise unauthorized dataset files.
 🔮 Future Improvements
 - Add more KPIs, such as total sales and order counts, if supported by the dataset.
 - Explore profit and discount trends if those fields are available.
